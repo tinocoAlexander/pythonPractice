@@ -16,4 +16,4 @@ else:
 
 #En este caso estamos haciendo una resta siempre se le resta al numero mayor
 
-print("La resta es igual a", resta)
+print("La resta es igual a: ", resta)
