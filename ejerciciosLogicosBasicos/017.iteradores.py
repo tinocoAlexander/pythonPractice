@@ -8,3 +8,5 @@ iterarLista = iter(miListaMercado)
 print(next(iterarLista))  # "manzanas"
 print(next(iterarLista))  # "platanos"
 print(next(iterarLista))  # "aguacates"
+
+# Hola
